@@ -1,7 +1,7 @@
-import Data from "./data/data.json"
+import studentData from "./data/data.json"
 import NavBar from "./Components/NavBar.jsx"
 import ClassByStartDate from "./Components/ClassByStartDate.jsx"
-import AllStudents from './Components/AllStudents.jsx'
+import StudentList from './Components/StudentList.jsx'
 console.log()
 
 
@@ -22,7 +22,7 @@ function App() {
          <ClassByStartDate />
        </div>
        <div className="column">
-         <AllStudents />
+         <StudentList />
        </div>
      </div>
    </div>
