@@ -10,14 +10,14 @@ const ClassByStartDate = () => {
     return (
       <div>
         <h3>Choose a Class by Start Date</h3>
-         <h3>"Winter2025"</h3>
-         <h3>"Winter2026"</h3>
-         <h3>"Summer2026"</h3>
-         <h3>"Summer2025"</h3>
-         <h3>"Spring2025"</h3>
-         <h3>"Spring2026</h3>
-         <h3>"Fall2025"</h3>
-         <h3>"Fall2026</h3>
+         <h3>Winter 2025</h3>
+         <h3>Winte 2026</h3>
+         <h3>Summer 2026</h3>
+         <h3>Summer 2025</h3>
+         <h3>Spring 2025</h3>
+         <h3>Spring 2026</h3>
+         <h3>Fall 2026</h3>
+         <h3>Fall 2026</h3>
 
 
 
@@ -32,9 +32,7 @@ const ClassByStartDate = () => {
 
 
  
-"Spring2026"
- 
-"Fall2026"
+
        
       </div>
     );

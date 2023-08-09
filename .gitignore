@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+  <p>Current Total: {student.codewars.current.total}</p> 
+  <p>Last Week: {student.codewars.current.lastweek}</p>
+  <p>Cohort: {student.cohort.cohortCode}</p>
